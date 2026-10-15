@@ -81,8 +81,6 @@ Review the proposed configuration. Setup writes `docs/agents/*.md` and updates t
 
 **Ready to continue when:** the agent confirms setup is complete and you know where specs and tickets will live. This configures the skills; creating the app scaffold and installing project dependencies are still project work.
 
-> **Command naming in this checkout:** the folder and workflow call this `setup-skills`, but its frontmatter says `name: setup-kills`, its display name is “Setup Matt Pocock Skills,” and several skills refer to `/setup-matt-pocock-skills`. These are inconsistent names for the setup step. If `/setup-skills` is unavailable, select the installed setup skill or explicitly ask the agent to follow [setup-skills/SKILL.md](./setup-skills/SKILL.md).
-
 ### 2. Turn the idea into agreed behavior
 
 Use [grill-with-docs](./grill-with-docs/SKILL.md) in your project directory:
