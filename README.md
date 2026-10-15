@@ -1,5 +1,7 @@
 # Engineering skills: from idea to delivery
 
+> **New to this pack?** Read the [visual field guide](https://claude.ai/artifact/3WxcEmXxYbtGBk82y75R69): the same workflow in plain language, with copyable commands and a worked example.
+
 A practical guide to the skills in this folder. Start with the workflow below, then use the [skill reference](#skill-reference) when you need a different route.
 
 ## How to use this guide
